@@ -1,4 +1,4 @@
-# diamond-moth-detection-mask-rcnn
+# Automatic Diamond Moth Detection AI System
 
 This project aims to create an AI system to detect Diamondback Moths (DBM) from insect trap images containing many insects. This is so that when the number of DBMs exceeds a certain threshold, the system user will be alerted and the system user can take corrective actions.
 
